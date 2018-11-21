@@ -1,0 +1,2 @@
+# NewsPanorama
+Autoscrolling news
